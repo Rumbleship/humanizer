@@ -1,0 +1,13 @@
+{
+  "name": "humanizer",
+  "version": "0.1.0",
+  "description":
+    "A utility for transforming a variety of Rumbleship data into human-readable formats",
+  "author": "Adam Hemphill <adam@rumbleship.com> (https://rumbleship.com)",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "./src/index.js",
+  "devDependencies": {
+    "prettier": "1.10.2"
+  }
+}
